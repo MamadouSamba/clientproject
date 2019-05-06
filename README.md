@@ -1,11 +1,11 @@
-# Project Name
+# Project Name=WeatherAlert
 
-## Team Members
+## Team Member(s)=Mamadou Samba
 
-## Problem
+## Problem=Addressing the issue of how to tell the weather
 
 ## Opportunity
 
-## Technical Magic
+## Technical Magic=
 
 ## Future Vision

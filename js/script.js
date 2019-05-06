@@ -1,8 +1,14 @@
 /* global $ */
 
-console.log('hi');
 
-$('h1').click(function(){
-    $('h1').css('color', 'green');
-    $('h1').text('Ready to Code');
+
+$('button').click(function(){
+    $.ajax({
+        url:"https://api.openweathermap.org/data/2.5/weather?zip=94040,us",
+        method:"GET",
+        success:function(response){
+            console.log("ok")
+        }
+    })
+
 });
