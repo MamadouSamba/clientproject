@@ -10,6 +10,7 @@ $('button').click(function(){
         method:"GET",
         success:function(response){
             console.log(response.weather[0])
+            $("#addin").append()
         }
     })
 

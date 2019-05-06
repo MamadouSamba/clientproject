@@ -11,3 +11,10 @@ div{
     display:flex;
     justify-content:center;
 }
+p{
+    color:white;
+    display:flex;
+    justify-content:center;
+    font-weight:bold;
+    
+}
