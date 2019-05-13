@@ -6,7 +6,9 @@ h1 {
 }
 body{
     background-color:#000033;
+    background: url("https://www.cbc.ca/doczone/content/images/episodes/waethergonewiild_1280.jpg");
 }
+
 div{
     display:flex;
     justify-content:center;
@@ -17,4 +19,11 @@ p{
     justify-content:center;
     font-weight:bold;
     
+}
+.addin{
+    height:500px;
+    width:500px;
+}
+.storm{
+    text-transform:capitalize;
 }

@@ -1,6 +1,6 @@
 # Project Name=WeatherAlert
 
-## Team Member(s)=Mamadou Samba
+## Member=Mamadou Samba
 
 ## Problem=Addressing the issue of how to tell the weather
 

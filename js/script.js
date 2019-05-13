@@ -9,8 +9,8 @@ $('button').click(function(){
         url:"https://api.openweathermap.org/data/2.5/weather?q=" + UserInput + "&APPID=3bb00f30e525b91a1deb9cbd20254379",
         method:"GET",
         success:function(response){
-            console.log(response.weather[0])
-            $("#addin").append()
+            console.log(response.weather[0].description)
+            $(".storm").append(response.weather[0].description)
         }
     })
 
