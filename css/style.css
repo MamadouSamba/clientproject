@@ -9,7 +9,7 @@ body{
     background: url("https://www.cbc.ca/doczone/content/images/episodes/waethergonewiild_1280.jpg");
 }
 
-div{
+#part{
     display:flex;
     justify-content:center;
 }
